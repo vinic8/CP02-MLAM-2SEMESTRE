@@ -20,10 +20,11 @@ O projeto responde a uma pergunta de negócio concreta: **para quais clientes o 
 
 | Nome | RM |
 |---|---|
-| *(preencher)* | *(preencher)* |
-| *(preencher)* | *(preencher)* |
-| *(preencher)* | *(preencher)* |
-| *(preencher)* | *(preencher)* |
+| *(Gustavos Henrique)* | *(569921)* |
+| *(Ricardo do Santos)* | *(569600)* |
+| *(Gabriel Vilas)* | *(571603)* |
+| *(Mathues ferreira)* | *(569638)* |
+| *(Vinicius Molena)* | *(571270)* |
 
 ---
 
